@@ -21,6 +21,7 @@
         {% assign url = site.url | append: site.baseurl | append: page.url %}
     {% endif %}
     <meta name="description" content="{{ desc }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
@@ -53,27 +54,377 @@
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
 </head>
+<style>
+body{margin:0;font-family:"Inconsolata";height:100%;color:#222222}
+a{text-decoration:none;color:#C51D1F}
+a:hover{text-decoration:underline;color:#C51D1F}
+a:visited{color:#C51D1F}
+
+body {
+color: #171717;
+    font-size: 1.07em;
+}
+
+#author-name{font-size:30px;color:#222222;display:inline-block}
+
+.navbar{padding:50px 0 50px 0}
+
+.navbar-ul{display:inline-block;margin:0;padding:5px 0 5px 0;margin-left:4px}
+
+.container{max-width:750px;margin:auto}
+.navbar-ul{display:inline-block;margin:0;padding:5px 0 5px 0;margin-left:4px}
+
+@media (max-width: 800px){
+  .container{max-width:88%;transition:0.3s ease all}
+}
+
+@media (max-width: 650px){
+  .container{max-width:83%}
+  .navbar-ul{margin-top:5px}
+}
+
+.site-footer-links a:hover {
+  text-decoration: none;
+}
+
+.site-footer-links a:hover .footer-label {
+  text-decoration: underline;
+}
+
+.footer-icon {
+  margin-right: 4px;
+}
+
+.snet-color {
+color: #C51D1F;
+}
+
+.content .profile-picture{
+  height:140px;
+  width:140px;
+  position:relative;
+  margin:0 0 10px 20px;
+  float:right;
+  border-radius:50%;
+  object-fit:cover;
+}
+
+.content .profile-picture img{
+
+  width:100%;
+
+  height:100%;
+
+  object-fit:cover;
+
+  border-radius:50%;
+
+}
+
+@media (max-width: 650px){
+
+  .content .profile-picture{
+
+    height:110px;
+
+    width:110px;
+
+    margin:0 0 10px 15px;
+
+  }
+
+}
+
+.news-badge{
+  display:inline-block;
+  padding:2px 10px;
+  border-radius:10px;
+  font-size:0.9em;
+  font-weight:700;
+  color:#fff;
+  margin-right:8px;
+  white-space:nowrap;
+}
+
+.news-badge.good{
+  background:#2e9b57;
+}
+
+.news-badge.bad{
+  background:#d9414e;
+}
+
+.news-badge.course{
+  padding:0.12em 0.6em;
+  border:2px solid #3b4354;
+  border-radius:0.85em;
+  background:transparent;
+  color:#3b4354;
+  font-size:0.95em;
+  font-weight:600;
+  line-height:1.1;
+  vertical-align:baseline;
+    margin-right: 0px;
+     /*color: #2a9d8f;*/
+    border-color: #2a9d8f;
+}
+
+.course-entry{
+
+  display:grid;
+
+  grid-template-columns:auto 1fr;
+
+  column-gap:12px;
+
+  row-gap:0px;
+
+  align-items:start;
+
+    margin-bottom: 10px;
+
+}
+
+.course-entry .news-badge{
+
+  grid-column:1;
+
+  grid-row:1;
+
+  margin-right:0;
+
+}
+
+.course-entry .course-title{
+
+  grid-column:2;
+
+  grid-row:1;
+
+  margin:0;
+
+  line-height:1.1;
+
+}
+
+.course-entry .course-meta{
+
+  grid-column:2;
+
+  grid-row:2;
+
+  margin:-4px 0 0 0;
+
+  line-height:1.05;
+
+}
+
+}
+
+.pub-entry {
+
+  /*line-height: 1.35;*/
+
+  margin-bottom: 1rem;
+
+}
+
+.pub-title {
+
+  font-weight: 700;
+
+}
+
+.author-me {
+
+  color: #0f766e;              /* teal: complementary to a red link tone */
+
+  text-decoration: underline;
+
+  text-decoration-color: #0f766e;
+
+  text-underline-offset: 0.12em;
+
+  text-decoration-thickness: 0.08em;
+
+  font-weight: 400;            /* avoid competing with the title */
+
+}
+
+.venue {
+
+  font-style: italic;
+
+}
+
+.meta-label {
+
+  font-weight: 400;            /* keep metadata visually quiet */
+
+}
+
+.roles {
+  color: #444;
+}
+
+.author-me {
+
+  color: #2f5f5b;
+
+  text-decoration: underline;
+
+  text-decoration-color: #2a9d8f;
+
+  text-underline-offset: 0.12em;
+
+  text-decoration-thickness: 0.08em;
+
+  font-weight: 400;
+
+}
+
+.pub-entry {
+
+  margin-bottom: 1rem;
+
+  line-height: inherit;
+
+}
+
+.pub-entry,
+
+.pub-entry * {
+
+  line-height: inherit;
+
+}
+
+.pub-title {
+
+  font-weight: 700;
+
+}
+
+.author-me {
+  color: #355f69;
+  font-weight: 490;
+  letter-spacing: -0.01em;
+  text-decoration-line: underline;
+  text-decoration-color: #355f69;
+  text-decoration-thickness: 0.07em;
+  text-underline-offset: 0.08em;
+}
+
+.venue {
+
+  font-style: italic;
+
+}
+
+.roles {
+
+  display: inline-block;
+
+  margin-top: 0.2em;
+
+  color: #444;
+
+}
+
+.roles-label {
+
+  font-style: normal;
+
+}
+
+.roles-list {
+
+  font-style: italic;
+
+}
+
+.award-best-paper {
+  color: #c62828;
+  font-weight: 499;
+}
+
+.icon-email {
+  color: #0f766e;
+}
+
+.icon-scholar {
+  color: #444;
+}
+
+.icon-orcid {
+  color: #a6ce39;
+}
+
+.icon-linkedin {
+  color: #0a66c2;
+}
+
+.icon-github {
+  color: #181717;
+}
+
+html {
+
+  background-color: #FCFCFA;
+
+}
+
+body {
+
+  background-color: #FCFCFA;
+
+  color: #111;
+
+}
+
+/*.icon-code {*/
+/*  color: #6b7280;*/
+/*}*/
+</style>
 <body>
     <div class="wrapper">
         <div class="navbar container">
-            {% if site.ins_logo %}
-                <img id="ins-logo" src="{{ site.ins_logo }}" />
+
+    {% if site.ins_logo %}
+
+        <img id="ins-logo" src="{{ site.ins_logo }}" />
+
+    {% endif %}
+
+    <a id="author-name" class="alignable pull-left" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+
+    <ul id="navlist" class="alignable pull-right navbar-ul">
+
+        {% for x in site.nav %}
+
+            {% if x.name == "Resume" %}
+
+                <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link | relative_url }}">{{ x.name }}</a>
+
+            {% else %}
+
+                <li class="alignable pull-left nav-list"><a href="{{ x.link | relative_url }}">{{ x.name }}</a>
+
             {% endif %}
-            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
-            <ul id="navlist" class="alignable pull-right navbar-ul">
-                {% for x in site.nav %}
-                    {% if x.name == "Resume" %}
-                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
-                    {% else %}
-                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
-                    {% endif %}
-                    {% if forloop.last == false %}
-                        /
-                    {% endif %}
-                        </li>
-                {% endfor %}
-            </ul>
-        </div>
+
+            {% if forloop.last == false %}
+
+                /
+
+            {% endif %}
+
+                </li>
+
+        {% endfor %}
+
+    </ul>
+
+</div>
         <div style="clear:both"></div>
         <hr>
         {% if page.is_contact == true %}
@@ -83,11 +434,36 @@
         {% endif %}
                 {{ content }}
                 {% if site.footer == true %}
-                    <hr />
-                    <p style="text-align: center; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
-                    </p>
-                {% endif %}
+
+    <hr />
+
+    <p style="text-align: center; margin-bottom: 2rem; padding-bottom: 2rem">
+
+        <a href="mailto:w.rieder@tu-berlin.de"><small><i class="fa-solid fa-envelope footer-icon icon-email"></i><span class="footer-label">Email</span></small></a>
+
+        |
+
+        <a href="https://scholar.google.com/citations?user=tEpDE_cAAAAJ"><small><i class="fa-solid fa-graduation-cap footer-icon icon-scholar"></i><span class="footer-label">Google Scholar</span></small></a>
+
+        |
+
+        <a href="https://orcid.org/0009-0001-4932-9814"><small><i class="fa-brands fa-orcid footer-icon icon-orcid"></i><span class="footer-label">ORCID</span></small></a>
+
+        |
+
+        <a href="https://linkedin.com/in/wolf-rieder"><small><i class="fa-brands fa-linkedin footer-icon icon-linkedin"></i><span class="footer-label">LinkedIn</span></small></a>
+
+        |
+
+        <a href="https://github.com/wolfrieder"><small><i class="fa-brands fa-github footer-icon icon-github"></i><span class="footer-label">GitHub</span></small></a>
+
+        |
+
+        <small>Jekyll template: <a href="https://github.com/ankitsultana/researcher"><span class="footer-label">Link</span></a></small>
+
+    </p>
+
+{% endif %}
             </div>
     </div>
     {% if site.tracking_id %}

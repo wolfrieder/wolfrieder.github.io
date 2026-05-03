@@ -1,4 +1,4 @@
-title: Researcher
+title: Wolf Rieder
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "Jekyll Template"
 
 sass:
     style: compressed
@@ -17,8 +17,16 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Publications"
+   link: "publications"
+ - name: "Service"
+   link: "service"
+ - name: "Teaching"
+   link: "teaching"
+# - name: "Students"
+#   link: "students"
+# - name: "Contact"
+#   link: "contact"
