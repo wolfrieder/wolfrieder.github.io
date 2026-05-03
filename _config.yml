@@ -1,6 +1,6 @@
 title: Wolf Rieder
 url: "https://wolfrieder.github.io"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -19,13 +19,13 @@ nav:
  - name: "About"
    link: "/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "/resume.pdf"
  - name: "Publications"
-   link: "publications"
+   link: "/publications/"
  - name: "Service"
-   link: "service"
+   link: "/service/"
  - name: "Teaching"
-   link: "teaching"
+   link: "/teaching/"
 # - name: "Students"
 #   link: "students"
 # - name: "Contact"
