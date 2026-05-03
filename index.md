@@ -7,8 +7,8 @@ layout: default
 <img class="profile-picture" src="profile.jpg">
 
 Hey! I’m currently working towards a Ph.D. in the field of web privacy and in particular, web tracking. 
-I've started working on this topic since my Bachelor's thesis and further developed it in my Master's. 
-I began working on tracker detection solutions but then shifted my focus on conducting
+I've been working on this topic since my Bachelor's thesis and further developed it in my Master's. 
+I began working on tracker detection solutions, but then shifted my focus on conducting
 meta-research on the field itself. I think many solutions have already been proposed, and I want to
 figure out how we can make the next step so that these privacy-enhancing tools find their 
 way to the users. To achieve this, I try to look at the whole field more closely
