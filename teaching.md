@@ -1,3 +1,9 @@
+---
+layout: default
+title: Teaching
+permalink: /teaching/
+---
+
 ## Courses
 <div class="course-entry">
   <span class="news-badge course">#40514</span>

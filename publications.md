@@ -1,3 +1,9 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
+
 Here is a list of my current publications. You can also find them on my CV (partly) and
 Google Scholar (full).  
 

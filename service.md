@@ -1,3 +1,9 @@
+---
+layout: default
+title: Service
+permalink: /service/
+---
+
 ## Faculty Service
 <p class="pub-entry">
   <span class="pub-title">Member of the Selection Committee of the Deutschlandstipendium for the Faculty IV (EECS)</span><br>  
