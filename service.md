@@ -45,8 +45,17 @@ permalink: /service/
 I have been a sub-reviewer for various conferences (esp. for machine learning topics) since the start of my PhD.
 
 <p class="pub-entry">
+  <span class="pub-title">Tadpole Reviewer</span><br>  
+  Privacy Enhancing Technologies Symposium (PETS), Jun 2026 - Present
+  <br>
+</p>
+<ul>
+    <li>Participating in the peer-review process of the Internet Measurement Conference by reviewing the submitted papers and discussing them with fellow STPC members to learn and gain experience as a reviewer.</li>
+  </ul>
+
+<p class="pub-entry">
   <span class="pub-title">Member of the Shadow Technical Program Commitee (STPC)</span><br>  
-  Internet Measurement Conference, Apr 2026 - Present
+  Internet Measurement Conference (IMC), Apr 2026 - Present
   <br>
 </p>
 <ul>
