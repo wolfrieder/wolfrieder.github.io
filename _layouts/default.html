@@ -382,10 +382,72 @@ body {
 
 }
 
+.profile-flip {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  perspective: 800px;
+  overflow: visible;
+}
+
+.profile-flip:focus {
+  outline: 2px solid #C51D1F;
+  outline-offset: 4px;
+}
+
+.profile-flip-inner {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  transform-style: preserve-3d;
+  transition: transform 0.55s ease;
+}
+
+.profile-flip.is-flipped .profile-flip-inner {
+  transform: rotateY(180deg);
+}
+
+.profile-flip img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.profile-flip-back {
+  transform: rotateY(180deg);
+  object-fit: contain !important;
+  background: #FCFCFA;
+}
+
 /*.icon-code {*/
 /*  color: #6b7280;*/
 /*}*/
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".profile-flip").forEach(function (element) {
+      element.addEventListener("click", function () {
+        element.classList.toggle("is-flipped");
+      });
+
+      element.addEventListener("keydown", function (event) {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          element.classList.toggle("is-flipped");
+        }
+      });
+    });
+  });
+</script>
+
 <body>
     <div class="wrapper">
         <div class="navbar container">

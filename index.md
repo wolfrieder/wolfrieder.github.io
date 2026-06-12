@@ -4,7 +4,23 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile.jpg">
+[//]: # (<img class="profile-picture" src="profile.jpg">)
+
+<button class="profile-picture profile-flip" type="button" aria-label="Flip profile picture">
+  <span class="profile-flip-inner">
+    <img
+      class="profile-flip-front"
+      src="{{ '/profile.jpg' | relative_url }}"
+      alt="Wolf Rieder"
+    >
+    <img
+      class="profile-flip-back"
+      src="{{ '/cat.jpeg' | relative_url }}"
+      alt=""
+      aria-hidden="true"
+    >
+  </span>
+</button>
 
 Hey! I’m currently working towards a Ph.D. in the field of web privacy and in particular, web tracking. 
 I've been working on this topic since my Bachelor's thesis and further developed it in my Master's. 
@@ -39,7 +55,8 @@ undergrad courses.
 In addition, I’ve worked in the field of business process automation at PwC, 
 focusing on modeling and programming Workflows for different stakeholders.
 
-P.S.: I love cats 🐈.
+P.S.: I'm a cat person. 🐈
+P.P.s.: You might find my cat somewhere on this webpage. 🔍
 
 [//]: # (## Research Interest)
 
@@ -57,7 +74,7 @@ P.S.: I love cats 🐈.
 > opportunities for Fall/Winter 2026 or for the year 2027. I am very eager to 
 > broaden my horizon on current (usable) privacy and security problems as well as learning 
 > new methodologies (in particular meta-science and user studies) to 
-> conduct cutting-edge research and to prepare myself for a potential
+> conduct cutting-edge research and to prepare for a
 > future PostDoc position. Feel free to contact me!     
 
 ## News

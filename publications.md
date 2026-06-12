@@ -18,7 +18,7 @@ I have added my roles for each publication following the [Contributor Roles Taxo
   <span class="author author-me">Wolf Rieder</span>, Philip Raschke, Thomas Cory, Christian René Sechting, Aditya Kumar, Axel Küpper.<br>
   <span class="venue">IEEE Symposium on Security and Privacy (IEEE S&amp;P 2026)</span>.<br>
   <span class="roles"><span class="roles-label">Roles:</span> <span class="roles-list">Conceptualization, Methodology, Project Administration, Supervision, Data Curation, Analysis, Investigation, Software, Validation, Visualization, Writing, Editing</span>.</span><br>
-  <a href="https://www.researchgate.net/publication/397660668_SoK_After_Decades_of_Web_Tracker_Detection_What's_Next">[paper]</a> <a href="https://github.com/wolfrieder/sok_artifact_web_tracker_detection/tree/v1.1">[code]</a> <a href="https://doi.org/10.56553/popets-2026-0026">[data]</a> Accepted; to appear in May 2026.  
+  <a href="https://www.computer.org/csdl/proceedings-article/sp/2026/606500d435/2geEX9VL9Wo">[paper]</a> <a href="https://github.com/wolfrieder/sok_artifact_web_tracker_detection/tree/v1.1">[code]</a> <a href="https://doi.org/10.56553/popets-2026-0026">[data]</a>  
 </p>
 
 <p class="pub-entry">
