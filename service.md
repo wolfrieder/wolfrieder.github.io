@@ -50,7 +50,7 @@ I have been a sub-reviewer for various conferences (esp. for machine learning to
   <br>
 </p>
 <ul>
-    <li>Participating in the peer-review process of the Internet Measurement Conference by reviewing the submitted papers and discussing them with fellow STPC members to learn and gain experience as a reviewer.</li>
+    <li>Participating in the peer-review process of PETS by reviewing the submitted papers and discussing them with fellow PC members to learn and gain experience as a reviewer.</li>
   </ul>
 
 <p class="pub-entry">
