@@ -16,7 +16,7 @@ permalink: /service/
 
 <p class="pub-entry">
   <span class="pub-title">Member of the Examination Board for the Faculty IV (EECS)</span><br>  
-  Technische Universität Berlin, Apr 2023 - Present
+  Technische Universität Berlin, Apr 2023 - Dec 2025
   <br>
 </p>
 <ul>
