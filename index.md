@@ -71,7 +71,7 @@ P.P.s.: You might find my cat somewhere on this webpage. 🔍
 
 ---
 > I am currently looking for research internship positions/visiting researcher 
-> opportunities for Fall/Winter 2026 or for the year 2027. I am very eager to 
+> opportunities for the year 2027. I am very eager to 
 > broaden my horizon on current (usable) privacy and security problems as well as learning 
 > new methodologies (in particular meta-science and user studies) to 
 > conduct cutting-edge research and to prepare for a
