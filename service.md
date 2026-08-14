@@ -54,7 +54,7 @@ I have been a sub-reviewer for various conferences (esp. for machine learning to
   </ul>
 
 <p class="pub-entry">
-  <span class="pub-title">Member of the Shadow Technical Program Commitee (STPC)</span><br>  
+  <span class="pub-title">Member of the Shadow Technical Program Committee (STPC)</span><br>  
   Internet Measurement Conference (IMC), Apr 2026 - Present
   <br>
 </p>
@@ -63,7 +63,7 @@ I have been a sub-reviewer for various conferences (esp. for machine learning to
   </ul>
 
 <p class="pub-entry">
-  <span class="pub-title">Program Commitee Member of the NLLP Workshop</span><br>  
+  <span class="pub-title">Program Committee Member of the NLLP Workshop</span><br>  
   Natural Legal Language Processing Workshop, Conference on Empirical Methods in Natural Language Processing (EMNLP), August 2026 - Present
   <br>
 </p>
