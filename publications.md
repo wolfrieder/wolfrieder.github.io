@@ -14,6 +14,14 @@ I have added my roles for each publication following the [Contributor Roles Taxo
 
 ### 2026
 <p class="pub-entry">
+  <span class="pub-title">ShadowPath: Lookup-Private Credential Status Verification over Authenticated State</span><br>
+  Patrick Herbke, <span class="author author-me">Wolf Rieder</span>, Christian René Sechting, Huaning Yang, Sid Lamichhane, Philip Raschke, Axel Küpper.<br>
+  <span class="venue">In Review</span>.<br>
+  <span class="roles"><span class="roles-label">Roles:</span> <span class="roles-list">Investigation, Validation, Visualization, Writing, Editing</span>.</span><br>
+  <a href="https://arxiv.org/abs/2608.19937">[preprint]</a> <a href="https://anonymous.4open.science/r/shadowpath-5097/README.md">[code]</a>  
+</p>
+
+<p class="pub-entry">
   <span class="pub-title">SoK: After Decades of Web Tracker Detection, What’s Next?</span><br>
   <span class="author author-me">Wolf Rieder</span>, Philip Raschke, Thomas Cory, Christian René Sechting, Aditya Kumar, Axel Küpper.<br>
   <span class="venue">IEEE Symposium on Security and Privacy (IEEE S&amp;P 2026)</span>.<br>

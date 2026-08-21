@@ -45,6 +45,12 @@ permalink: /service/
 I have been a sub-reviewer for various conferences (esp. for machine learning topics) since the start of my PhD.
 
 <p class="pub-entry">
+  <span class="pub-title">Program Committee Member of the NLLP Workshop</span><br>  
+  Natural Legal Language Processing Workshop, Conference on Empirical Methods in Natural Language Processing (EMNLP), August 2026 - Present
+  <br>
+</p>
+
+<p class="pub-entry">
   <span class="pub-title">Tadpole Reviewer</span><br>  
   Privacy Enhancing Technologies Symposium (PETS), Jun 2026 - Present
   <br>
@@ -61,9 +67,3 @@ I have been a sub-reviewer for various conferences (esp. for machine learning to
 <ul>
     <li>Participating in the peer-review process of the Internet Measurement Conference by reviewing the submitted papers and discussing them with fellow STPC members to learn and gain experience as a reviewer.</li>
   </ul>
-
-<p class="pub-entry">
-  <span class="pub-title">Program Committee Member of the NLLP Workshop</span><br>  
-  Natural Legal Language Processing Workshop, Conference on Empirical Methods in Natural Language Processing (EMNLP), August 2026 - Present
-  <br>
-</p>
