@@ -46,13 +46,13 @@ I have been a sub-reviewer for various conferences (esp. for machine learning to
 
 <p class="pub-entry">
   <span class="pub-title">Artifact Evaluation Committee</span><br>  
-  IEEE Symposium on Security and Privacy (IEEE S&amp;P), September 2026 - Present
+  IEEE Symposium on Security and Privacy (IEEE S&amp;P), Sep 2026 - Present
   <br>
 </p>
 
 <p class="pub-entry">
   <span class="pub-title">Program Committee Member of the NLLP Workshop</span><br>  
-  Natural Legal Language Processing Workshop, Conference on Empirical Methods in Natural Language Processing (EMNLP), August 2026 - Present
+  Natural Legal Language Processing Workshop, Conference on Empirical Methods in Natural Language Processing (EMNLP), Aug 2026 - Present
   <br>
 </p>
 
@@ -67,7 +67,7 @@ I have been a sub-reviewer for various conferences (esp. for machine learning to
 
 <p class="pub-entry">
   <span class="pub-title">Member of the Shadow Technical Program Committee (STPC)</span><br>  
-  Internet Measurement Conference (IMC), Apr 2026 - Present
+  Internet Measurement Conference (IMC), Apr 2026 - Oct 2026
   <br>
 </p>
 <ul>
