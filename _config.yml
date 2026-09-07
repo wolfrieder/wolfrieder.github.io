@@ -1,4 +1,6 @@
 title: Wolf Rieder
+author: "Wolf Rieder"
+description: "PhD researcher at Technische Universität Berlin in web privacy and security."
 url: "https://wolfrieder.com"
 baseurl: ""
 
@@ -9,7 +11,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana/researcher"
-footer_text: "Jekyll Template"
+footer_text: "Built with the Researcher Jekyll Template"
 
 sass:
     style: compressed

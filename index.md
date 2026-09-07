@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Wolf Rieder -- Web Privacy & Security Researcher"
+description: "PhD researcher at Technische Universität Berlin in web privacy and security."
 ---
 
 ## About Me
