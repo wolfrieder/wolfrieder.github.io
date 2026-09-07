@@ -58,6 +58,7 @@ In addition, I’ve worked in the field of business process automation at PwC,
 focusing on modeling and programming Workflows for different stakeholders.
 
 P.S.: I'm a cat person. 🐈
+
 P.P.s.: You might find my cat somewhere on this webpage. 🔍
 
 [//]: # (## Research Interest)
