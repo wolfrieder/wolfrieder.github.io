@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+title: "Publications - Wolf Rieder"
 permalink: /publications/
 ---
 

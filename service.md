@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Service
+title: "Service - Wolf Rieder"
 permalink: /service/
 ---
 

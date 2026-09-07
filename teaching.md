@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching
+title: "Teaching - Wolf Rieder"
 permalink: /teaching/
 ---
 
