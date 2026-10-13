@@ -26,7 +26,7 @@ I have added my roles for each publication following the [Contributor Roles Taxo
   <span class="author author-me">Wolf Rieder</span>, Philip Raschke, Thomas Cory, Christian René Sechting, Aditya Kumar, Axel Küpper.<br>
   <span class="venue">IEEE Symposium on Security and Privacy (IEEE S&amp;P 2026)</span>.<br>
   <span class="roles"><span class="roles-label">Roles:</span> <span class="roles-list">Conceptualization, Methodology, Project Administration, Supervision, Data Curation, Analysis, Investigation, Software, Validation, Visualization, Writing, Editing</span>.</span><br>
-  <a href="https://www.computer.org/csdl/proceedings-article/sp/2026/606500d435/2geEX9VL9Wo">[paper]</a> <a href="https://github.com/wolfrieder/sok_artifact_web_tracker_detection/tree/v1.1">[code]</a> <a href="https://doi.org/10.56553/popets-2026-0026">[data]</a>  
+  <a href="https://www.computer.org/csdl/proceedings-article/sp/2026/606500d435/2geEX9VL9Wo">[paper]</a> <a href="https://github.com/wolfrieder/sok_artifact_web_tracker_detection/tree/v1.1">[code]</a> <a href="https://github.com/tomcory/privacy-policy-annotator/tree/28cc2b1ad104f78696793c33c548cab3ac07c070/dataset">[data]</a>  
 </p>
 
 <p class="pub-entry">
@@ -34,7 +34,7 @@ I have added my roles for each publication following the [Contributor Roles Taxo
   Thomas Cory, <span class="author author-me">Wolf Rieder</span>, Julia Krämer, Philip Raschke, Patrick Herbke, Axel Küpper.<br>
   <span class="venue">Privacy Enhancing Technologies Symposium (PETS 2026)</span>.<br>
   <span class="roles"><span class="roles-label">Roles:</span> <span class="roles-list">Methodology, Investigation, Visualization, Writing, Editing</span>.</span><br>
-  <a href="https://doi.org/10.56553/popets-2026-0026">[paper]</a> <a href="https://github.com/tomcory/privacy-policy-annotator/tree/28cc2b1ad104f78696793c33c548cab3ac07c070">[code]</a> <a href="https://zenodo.org/records/19240312">[data]</a>
+  <a href="https://doi.org/10.56553/popets-2026-0026">[paper]</a> <a href="https://github.com/tomcory/privacy-policy-annotator/tree/28cc2b1ad104f78696793c33c548cab3ac07c070">[code]</a> <a href="https://doi.org/10.56553/popets-2026-0026">[data]</a>
 </p>
 
 ### 2025 
