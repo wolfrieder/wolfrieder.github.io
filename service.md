@@ -45,6 +45,12 @@ permalink: /service/
 I have been a sub-reviewer for various conferences (esp. for machine learning topics) since the start of my PhD.
 
 <p class="pub-entry">
+  <span class="pub-title">Reviewer</span><br>  
+  The ACM Web Conference (WWW), October 2026 - Present
+  <br>
+</p>
+
+<p class="pub-entry">
   <span class="pub-title">Artifact Evaluation Committee</span><br>  
   IEEE Symposium on Security and Privacy (IEEE S&amp;P), Sep 2026 - Present
   <br>
