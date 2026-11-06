@@ -42,40 +42,85 @@ permalink: /service/
 
 
 ## Professional Service
-I have been a sub-reviewer for various conferences (esp. for machine learning topics) since the start of my PhD.
 
-<p class="pub-entry">
-  <span class="pub-title">Reviewer</span><br>  
-  The ACM Web Conference (WWW), October 2026 - Present
-  <br>
-</p>
+[//]: # (I have been a sub-reviewer for various conferences &#40;esp. for machine learning topics&#41; since the start of my PhD.)
 
-<p class="pub-entry">
-  <span class="pub-title">Artifact Evaluation Committee</span><br>  
-  IEEE Symposium on Security and Privacy (IEEE S&amp;P), Sep 2026 - Present
-  <br>
-</p>
+### Program Committee
+ACM Internet Measurement Conference (IMC): 2026 (STPC), 2027<br>
+Natural Legal Language Processing Workshop (NLLP): 2026
 
-<p class="pub-entry">
-  <span class="pub-title">Program Committee Member of the NLLP Workshop</span><br>  
-  Natural Legal Language Processing Workshop, Conference on Empirical Methods in Natural Language Processing (EMNLP), Aug 2026 - Present
-  <br>
-</p>
+### Artifact Evaluation Committee
+IEEE Symposium on Security and Privacy (IEEE S&amp;P): 2026
 
-<p class="pub-entry">
-  <span class="pub-title">Tadpole Reviewer</span><br>  
-  Privacy Enhancing Technologies Symposium (PETS), Jun 2026 - Present
-  <br>
-</p>
-<ul>
-    <li>Participating in the peer-review process of PETS by reviewing the submitted papers and discussing them with fellow PC members to learn and gain experience as a reviewer.</li>
-  </ul>
+### Reviewer
+The Web Conference (WWW): 2027<br>
+Privacy Enhancing Technologies Symposium (PETS): 2027 (Tadpole Reviewer)<br>
+International Conference on Agents and Artificial Intelligence (ICAART): 2027<br>
+International Conference on Industry of the Future and Smart Manufacturing  (ISM): 2026<br>
+IEEE International Conference on Intelligent Mobile Computing (IMC): 2025<br>
 
-<p class="pub-entry">
-  <span class="pub-title">Member of the Shadow Technical Program Committee (STPC)</span><br>  
-  Internet Measurement Conference (IMC), Apr 2026 - Oct 2026
-  <br>
-</p>
-<ul>
-    <li>Participating in the peer-review process of the Internet Measurement Conference by reviewing the submitted papers and discussing them with fellow STPC members to learn and gain experience as a reviewer.</li>
-  </ul>
+[//]: # (<p class="pub-entry">)
+
+[//]: # (  <span class="pub-title">Reviewer</span><br>  )
+
+[//]: # (  The ACM Web Conference &#40;WWW&#41;, October 2026 - Present)
+
+[//]: # (  <br>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p class="pub-entry">)
+
+[//]: # (  <span class="pub-title">Artifact Evaluation Committee</span><br>  )
+
+[//]: # (  IEEE Symposium on Security and Privacy &#40;IEEE S&amp;P&#41;, Sep 2026 - Present)
+
+[//]: # (  <br>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p class="pub-entry">)
+
+[//]: # (  <span class="pub-title">Program Committee Member of the NLLP Workshop</span><br>  )
+
+[//]: # (  Natural Legal Language Processing Workshop, Conference on Empirical Methods in Natural Language Processing &#40;EMNLP&#41;, Aug 2026 - Present)
+
+[//]: # (  <br>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p class="pub-entry">)
+
+[//]: # (  <span class="pub-title">Tadpole Reviewer</span><br>  )
+
+[//]: # (  Privacy Enhancing Technologies Symposium &#40;PETS&#41;, Jun 2026 - Present)
+
+[//]: # (  <br>)
+
+[//]: # (</p>)
+
+[//]: # (<ul>)
+
+[//]: # (    <li>Participating in the peer-review process of PETS by reviewing the submitted papers and discussing them with fellow PC members to learn and gain experience as a reviewer.</li>)
+
+[//]: # (  </ul>)
+
+[//]: # ()
+[//]: # (<p class="pub-entry">)
+
+[//]: # (  <span class="pub-title">Member of the Shadow Technical Program Committee &#40;STPC&#41;</span><br>  )
+
+[//]: # (  Internet Measurement Conference &#40;IMC&#41;, Apr 2026 - Oct 2026)
+
+[//]: # (  <br>)
+
+[//]: # (</p>)
+
+[//]: # (<ul>)
+
+[//]: # (    <li>Participating in the peer-review process of the Internet Measurement Conference by reviewing the submitted papers and discussing them with fellow STPC members to learn and gain experience as a reviewer.</li>)
+
+[//]: # (  </ul>)
