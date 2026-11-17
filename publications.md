@@ -39,7 +39,7 @@ I have added my roles for each publication following the [Contributor Roles Taxo
 
 <p class="pub-entry">
   <span class="pub-title">A Survey of Decentralized LLM-Based Multi-Agent Collaboration for Agentic AI</span><br>
-  Yazan Andoni, Ali Basta, Awid Vaziry, Thomas Cory, Axel Küpper, <span class="author author-me">Wolf Rieder</span>.<br>
+  Yazan Andoni, Ali Basta, Awid Vaziry, Thomas Cory, <span class="author author-me">Wolf Rieder</span>, Axel Küpper,.<br>
   <span class="venue">International Conference on Agentic and Generative Techniques in Intelligent Computational Systems (AGENTICS)</span>.<br>
   <span class="roles"><span class="roles-label">Roles:</span> <span class="roles-list">Supervision, Editing</span>.</span><br>
 
